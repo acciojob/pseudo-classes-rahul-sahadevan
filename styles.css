@@ -1,1 +1,28 @@
+*{
+	background-color:rgb(135, 206, 235);
+}
+article>p:first-child{
+	background-color:black;
+	color:white;
+}
+.third{
+	color:red;
+}
+ul{
+	width:50%;
+}
+li{
+	padding:10px;
+}
+.f,.fi{
+	font-size:22px;
+	background-color:white;
+}
+.s,.fo{
+	background-color:grey;
+}
+.t{
+	background-color:pink;
+}
+
 /*  your css code here. If applicable */
